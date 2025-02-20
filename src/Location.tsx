@@ -143,7 +143,6 @@ export default function Location() {
           <option value="Zimbabwe">Zimbabwe</option>
         </select>
       </section>
-
       <section> 
         <p>Select State</p>
 
